@@ -1,4 +1,4 @@
-# ImpulseResponseDB
+# ImpulseResponseDb
 A free database of impulse responses for phones and small devices.
 
 Though many databases of room impulse responses exist, there are no free or publically avialable datasets for device impulse responses. This project aims to bridge that gap by providing a free database of impulse responses for phones and other small devices (Iphones, Androids, Ipads, etc.) 
