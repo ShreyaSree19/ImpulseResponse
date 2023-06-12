@@ -13,4 +13,4 @@ The impulse responses are provided as MATLAB Figures. The Recordings are labeled
 Please cite the contributors (Shreya Sreekantham, Jianwei Zhang, Suren Jayasuriya) when using this database. If you would like to contribute a device that is not yet in the database, please contact irdatacollection@gmail.com.
 
 # Updates
-This data was collected starting March 2022 and continues to be updated.
+This data was collected in March 2022 and continues to be updated.
